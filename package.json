@@ -1,0 +1,13 @@
+{
+  "name": "neural-network-20nine",
+  "version": "0.0.1",
+  "description": "A exploration of neural networks using sigmoid activation",
+  "author": "Joe Zeoli <joe@20nine.com>",
+  "dependencies": {
+    "brain": "^0.7.0",
+    "express": "^4.13.4",
+    "node-matrix": "^0.1.1",
+    "sigmoid": "0.0.1",
+    "strava-v3": "^1.10.0"
+  }
+}
